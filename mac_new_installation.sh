@@ -1,19 +1,19 @@
-brew cask install iterm2
-brew cask install lastpass
-brew cask install brave-browser
-brew cask install firefox
-brew cask install alfred
-brew cask install jdownloader
-brew cask install kindle
-brew cask install parallels
-brew cask install sublime-text
-brew cask install the-unarchiver
-brew cask install vlc
-brew cask install visual-studio-code
-brew cask install adobe-creative-cloud
- 
-brew cask install font-source-code-pro
- 
-brew cask install google-drive
-brew cask install google-drive-file-stream
-brew cask install carbon-copy-cloner
+brew install iterm2
+brew install lastpass
+brew install brave-browser
+brew install firefox
+brew install alfred
+brew install jdownloader
+brew install kindle
+brew install parallels
+brew install sublime-text
+brew install the-unarchiver
+brew install vlc
+brew install visual-studio-code
+brew install adobe-creative-cloud
+
+brew install font-source-code-pro
+
+brew install google-drive
+brew install google-drive-file-stream
+brew install carbon-copy-cloner
